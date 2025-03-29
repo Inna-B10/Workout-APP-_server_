@@ -1,5 +1,5 @@
 {
-  "name": "exercise-scheduler-server",
+  "name": "Workout-APP-_server_",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Inna-B10/exercise-scheduler-server.git"
+    "url": "git+https://github.com/Inna-B10/Workout-APP-_server_.git"
   },
   "author": "[alekinna]",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Inna-B10/exercise-scheduler-server/issues"
+    "url": "https://github.com/Inna-B10/Workout-APP-_server_/issues"
   },
-  "homepage": "https://github.com/Inna-B10/exercise-scheduler-server",
+  "homepage": "https://github.com/Inna-B10/Workout-APP-_server_",
   "description": "",
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
